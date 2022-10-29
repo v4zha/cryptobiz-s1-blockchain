@@ -65,5 +65,9 @@ This repo provides required info and references for Second session of CryptoBiz 
 
   - [**MetaMask**](https://metamask.io/)
 
+#### Ganache setup
+  - [**Ganache**](https://trufflesuite.com/ganache/)<br>
+    ***or*** 
+  - [**HardHat**](https://hardhat.org/)
 <br>
 
